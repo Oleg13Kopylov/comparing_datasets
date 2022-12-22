@@ -5,10 +5,10 @@
 1) **11_december_applied_to_reviews_on_hotels.ipynb**
 – модель bert обучается на отзывах об отелях и
 обученная модель сохраняется в google drive
-2) 11_december_applied_to_reviews_on_movies.ipynb
+2) **11_december_applied_to_reviews_on_movies.ipynb**
 – модель bert обучается на отзывах о фильмах и 
 обученная модель сохраняется в google drive
-3) 13_december_loading_model_and_testing.ipynb 
+3) **13_december_loading_model_and_testing.ipynb**
 – результаты тестирования модели bert
 (в том числе перекрестная проверка). Обучающая и тестовая
 выборки фиксированные.
