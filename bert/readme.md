@@ -1,3 +1,5 @@
+# BERT
+
 Описание вида название файла – его содержание
 
 1) **11_december_applied_to_reviews_on_hotels.ipynb**
