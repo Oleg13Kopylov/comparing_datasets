@@ -22,6 +22,8 @@
    
 Ссылки на яндекс диск с моделями:
 1) roberta, обученная на отзывах на фильмы:
-TO-DO
+https://disk.yandex.com/d/YhD7r9_rVqY87A
 2) roberta, обученная на отзывах на отели:
-TO-DO
+https://disk.yandex.com/d/bzD4M16eMEiYtg
+
+

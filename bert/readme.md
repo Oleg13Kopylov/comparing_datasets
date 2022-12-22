@@ -22,6 +22,8 @@
 
 Ссылки на яндекс диск с моделями:
 1) bert, обученный на отзывах на фильмы:
-TO-DO
+https://disk.yandex.com/d/kTaDcVVXDvec0w
 2) bert, обученный на отзывах на отели:
-TO-DO
+https://disk.yandex.com/d/EazMr_Q4nquOoA
+
+
