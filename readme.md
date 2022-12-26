@@ -7,4 +7,5 @@
 3) **roberta** – эксперименты с моделью roberta
 4) **albert** – эксперименты с моделью albert
 5) **electra** – эксперименты с моделью electra
+6) **distilbert** – эксперименты с моделью distilbert
 
