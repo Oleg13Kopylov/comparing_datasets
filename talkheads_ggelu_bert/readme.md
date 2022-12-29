@@ -1,6 +1,8 @@
 # talkheads_ggelu_bert
 
-Описание вида "название файла – его содержание"
+Описание вида "название файла – его содержание" для 
+BERT with Talking-Heads Attention and Gated GELU
+(talkheads_ggelu_bert).
 
 1) **talkheads_ggelu_bert_on_hotels_28_december.ipynb**
 – модель talkheads_ggelu_bert обучается на отзывах об отелях и
