@@ -2,12 +2,14 @@
 описание её содержимого"
 
 
-1) **datasets** – используемые в работе датасеты
-2) **bert** – эксперименты с моделью bert
-3) **roberta** – эксперименты с моделью roberta
-4) **albert** – эксперименты с моделью albert
-5) **electra** – эксперименты с моделью electra
-6) **distilbert** – эксперименты с моделью distilbert
-7) **mobilebert** – эксперименты с моделью mobilebert
+0) **datasets** – используемые в работе датасеты
+1) **bert** – эксперименты с моделью bert
+2) **roberta** – эксперименты с моделью roberta
+3) **albert** – эксперименты с моделью albert
+4) **electra** – эксперименты с моделью electra
+5) **distilbert** – эксперименты с моделью distilbert
+6) **mobilebert** – эксперименты с моделью mobilebert
+7) **labse** – эксперименты с моделью labse
+8) **talkheads_ggelu_bert** – эксперименты с моделью talkheads_ggelu_bert
 
 
