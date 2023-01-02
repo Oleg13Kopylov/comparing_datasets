@@ -12,5 +12,6 @@
 7) **labse** – эксперименты с моделью labse
 8) **talkheads_ggelu_bert** – эксперименты с моделью talkheads_ggelu_bert
 9) **lambert** – эксперименты с моделью lambert
+10) **tn_bert** – эксперименты с моделью tn_bert
 
 
