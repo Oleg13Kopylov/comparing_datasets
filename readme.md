@@ -16,5 +16,4 @@
 
 
 Dataframe с результатами всех экспериментов выше находится в файле 
-df_with_all_models.ipynb
-.
+**df_with_all_models.ipynb**.
