@@ -2,6 +2,8 @@
 
 Описание вида "название файла – его содержание"
 
+Первая серия экспериментов:
+
 1) **albert_on_hotels_23_december_with_15_epochs.ipynb**
 – модель albert обучается на отзывах об отелях и
 обученная модель сохраняется в google drive
@@ -19,7 +21,17 @@
 каждом из датасетов (один датасет с отзывами на отели, 
 другой датасет – с отзывами на фильмы).
 
-15 эпох при обучении.
+Вторая серия экспериментов:
+
+4) **albert_on_spam_emails_19_january.ipynb** –
+модель albert
+обучается определять, является ли электронное письмо спамом
+5) **albert_on_spam_sms_19_january.ipynb** –
+модель albert
+обучается определять, является ли sms спамом
+6) **albert_loading_model_and_testing_on_spam_19_january.ipynb** – 
+– результаты тестирования модели albert
+(в том числе перекрестная проверка).
 
 
 Ссылки на яндекс диск с моделями, которые я обучил:
@@ -27,6 +39,9 @@
 https://disk.yandex.com/d/tT9f_BLDKkY31g
 2) albert, обученный на отзывах на отели:
 https://disk.yandex.com/d/vSZVlmrfl4Iiug
-
+3) albert, обученный определять спам в электронных письмах:
+https://disk.yandex.com/d/mg1gPmf23bI7pg
+4) albert, обученный определять спам в sms:
+https://disk.yandex.com/d/xy_CdmKlOAMz_w
 
 
