@@ -20,3 +20,4 @@
 
 1) для первой серии экспериментов (определение позитивности отзыва) – в файле **results_of_first_series_of_experiments.ipynb**
 2) для второй серии экспериментов (определение спама) – в файле **results_of_second_series_of_experiments.ipynb**
+3) для датасетов, взятых из разных серий экспериментов – в файле **additional_research_for_similarity_in_second_sense_for_datasets_from_different_series_of_experiments.ipynb**
